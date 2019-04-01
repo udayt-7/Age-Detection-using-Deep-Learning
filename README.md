@@ -1,0 +1,2 @@
+# Age-Detection-using-Deep-Learning
+The task is to predict the age of a person from his/her facial attributes, it is a multi-class problem where the age of the subjects is categorized into classes such as Young, Middle and Old. The obtained images have different dimensions, multiple viewpoints as such that needs to be processed. A model that is capable of predicting age amid these challenges is built and tested for accuracy.
