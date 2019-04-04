@@ -11,12 +11,15 @@ The data has 2 parts - Train and Test data
 
 I have used Convolution Neural Networks  along with a Sequential model
 The main layers used are
+
+
     1. Input Layer
     2. 2 Convolutional Layers with Relu as a Activation function
     3. 2 MaxPooling Layers with 2,2 output matrix
     4. 2 Dropout Layers 
     5. 1 Flatten Layer
     6. 3 Dense Layers [2 with Relu and 1 with Softmax function]
+    
 
 For training the model with above layers i got around 97% accuracy
 
