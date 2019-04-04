@@ -3,12 +3,9 @@ The task is to predict the age of a person from his/her facial attributes, it is
 
 The data has 2 parts - Train and Test data
 
-  Train data contains 19000 images
-  Test data contains 7000 imags
+  Train data contains 19000 images and Test data contains 7000 imags
   
-  train.csv file - contains 2 columns ID [Name of the jpg file]
-                                      Class [age class of the image]
-                                      
+  train.csv file - contains 2 columns ID [Name of the jpg file] and Class [age class of the image]                      
                                       
   test.csv file has ID of all the test images and the class should  be predicted!
   
