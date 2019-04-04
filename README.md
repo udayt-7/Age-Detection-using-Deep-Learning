@@ -10,8 +10,7 @@ The data has 2 parts - Train and Test data
   test.csv file has ID of all the test images and the class should  be predicted!
   
 
-I have used Convolution Neural Networks  along with a Sequential model
-The main layers used are
+I have used Convolution Neural Networks  along with a Sequential model, The main layers used are
 
 
     1. Input Layer
