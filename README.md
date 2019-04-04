@@ -2,10 +2,14 @@
 The task is to predict the age of a person from his/her facial attributes, it is a multi-class problem where the age of the subjects is categorized into classes such as Young, Middle and Old. The obtained images have different dimensions, multiple viewpoints as such that needs to be processed. A model that is capable of predicting age amid these challenges is built and tested for accuracy.
 
 The data has 2 parts - Train and Test data
+
   Train data contains 19000 images
   Test data contains 7000 imags
+  
   train.csv file - contains 2 columns ID [Name of the jpg file]
                                       Class [age class of the image]
+                                      
+                                      
   test.csv file has ID of all the test images and the class should  be predicted!
   
 
